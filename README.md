@@ -1,1 +1,1 @@
-List all tags for a given imagein Nexus via API.
+List all tags for a given image in Nexus via API.
